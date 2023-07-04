@@ -1,0 +1,5 @@
+map_name: World_War_II_Halifax
+games:
+- {game_name: World War II Global 1940 2nd Edition Halifax Rules V1, file_name: ww2global40_2nd_edition_Halifax_V1.xml}
+- {game_name: World War II Global 1940 2nd Edition Halifax Rules V2, file_name: ww2global40_2nd_edition_Halifax_V2.xml}
+version: 0
